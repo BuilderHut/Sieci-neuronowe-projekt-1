@@ -1,6 +1,6 @@
 Instrukcja uruchomienia (Windows + Conda)
 1) Wejdź do folderu z plikiem
-2) Aktywuj środowisko conda conda activate ...
+2) Aktywuj środowisko conda: conda activate ...
 3) Uruchomienia A–E (jak w sprawozdaniu)
    
 A — baseline
